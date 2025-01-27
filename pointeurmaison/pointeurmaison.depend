@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701810821 source:d:\prog c\pointeurmaison\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

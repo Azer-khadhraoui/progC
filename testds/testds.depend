@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1709212018 source:d:\prog c\testds\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+
+1709210821 d:\prog c\testds\declaration.h
+
+1709212054 source:d:\prog c\testds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+

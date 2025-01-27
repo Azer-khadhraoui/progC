@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700297771 source:d:\prog c\jll\main.c
+	<stdio.h>
+	<stdlib.h>
+

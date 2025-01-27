@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704123832 source:d:\prog c\neslivre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

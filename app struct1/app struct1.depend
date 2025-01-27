@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699020379 source:d:\prog c\app struct1\main.c
+	<stdio.h>
+
+1699020001 source:d:\prog c\app struct1\gg.c
+	<stdio.h>
+

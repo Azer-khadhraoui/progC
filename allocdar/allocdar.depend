@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707758038 source:d:\prog c\allocdar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

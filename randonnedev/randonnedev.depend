@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705146457 source:d:\prog c\randonnedev\main.c
+	<stdio.h>
+	<stdlib.h>
+

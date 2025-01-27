@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699628557 source:d:\prog c\appstruct2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

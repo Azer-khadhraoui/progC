@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1706794929 source:d:\prog c\app2sem2\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+	<string.h>
+
+1706793120 d:\prog c\app2sem2\declaration.h
+
+1706794798 source:d:\prog c\app2sem2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"declaration.h"
+	<string.h>
+

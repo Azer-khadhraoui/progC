@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706298387 source:d:\prog c\dar22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

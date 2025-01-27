@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1701443578 source:d:\prog c\apppointeur1\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaration.h"
+
+1701442656 d:\prog c\apppointeur1\declaration.h
+
+1701443714 source:d:\prog c\apppointeur1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"declaration.h"
+

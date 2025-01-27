@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706295101 source:d:\prog c\dar21\main.c
+	<stdio.h>
+	<stdlib.h>
+
